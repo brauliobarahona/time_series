@@ -1,0 +1,14 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/UNKNOWN.egg-info/PKG-INFO
+src/UNKNOWN.egg-info/SOURCES.txt
+src/UNKNOWN.egg-info/dependency_links.txt
+src/UNKNOWN.egg-info/top_level.txt
+src/timeseries_scripts/__init__.py
+src/timeseries_scripts/download.py
+src/timeseries_scripts/excel_parser.py
+src/timeseries_scripts/imputation.py
+src/timeseries_scripts/make_json.py
+src/timeseries_scripts/read.py
+src/timeseries_scripts/terna.py

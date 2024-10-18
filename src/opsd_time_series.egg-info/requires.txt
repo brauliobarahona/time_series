@@ -1,0 +1,12 @@
+pandas
+numpy
+xlrd
+openpyxl
+bottleneck
+numexpr
+jupyter
+pyyaml
+requests
+jupyter_contrib_nbextensions
+selenium
+paramiko

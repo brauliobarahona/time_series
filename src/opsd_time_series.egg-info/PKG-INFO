@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: opsd_time_series
+Version: 0.0.0
+License-File: LICENSE.md
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: xlrd
+Requires-Dist: openpyxl
+Requires-Dist: bottleneck
+Requires-Dist: numexpr
+Requires-Dist: jupyter
+Requires-Dist: pyyaml
+Requires-Dist: requests
+Requires-Dist: jupyter_contrib_nbextensions
+Requires-Dist: selenium
+Requires-Dist: paramiko

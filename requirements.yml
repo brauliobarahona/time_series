@@ -1,10 +1,11 @@
+#
 name: opsd_time_series
 
 channels:
   - conda-forge
 
 dependencies:
-  - python=3.8
+  - python
   - pandas
   - numpy
   - xlrd  # pandas: excel i/o
